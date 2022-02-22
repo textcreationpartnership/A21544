@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte for the repeale of certayne actes made in the tyme of Kyng Edwarde the Sixt</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21544</idno>
+            <idno type="STC">STC 7852</idno>
+            <idno type="STC">ESTC S3415</idno>
+            <idno type="EEBO-CITATION">33149711</idno>
+            <idno type="OCLC">ocm 33149711</idno>
+            <idno type="VID">28474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28474)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte for the repeale of certayne actes made in the tyme of Kyng Edwarde the Sixt</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Mary I, Queen of England, 1516-1558.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Iohannis Cawodi typographi Regiæ excusum,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno M.D.LIII [1553]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Act repealing Edward VI's acts concerning election of bishops, marriage of clergy, and administration of the sacrament of Holy Communion.</note>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church and state --  England --  16th century.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:28474:1"/>
+            <head>¶An Acte for the repeale of certayne Actes made in the tyme of kyng Edwarde the ſixt.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuche as by dyuerſe and ſeueral Actes hereafter mencioned, aſwell the di<g ref="char:EOLhyphen"/>uine ſeruice, &amp; good adminiſtration of y<hi rend="sup">e</hi> Sacramentes, as diuerſe other matters of religion (whiche we and our forefathers founde in this Churche of Englande to vs, lefte by the authoritie of the catholike Churche) be partely altered and in ſome parte taken from vs, and in place therof newe thynges ymagined, and ſet forth by the ſayd Actes, ſuch as a feaw of ſingularitie haue of them ſelues deuiſed. Wherof hath enſued amongeſt vs in very ſhort tyme numbers of dyuers and ſtraunge opinions, &amp; diuerſities of ſectes, &amp; ther<g ref="char:EOLhyphen"/>by growen great vnquietnes, &amp; muche diſcord, to the great diſturbaunce of the comen welth of this realme, and in very ſhort time lyke to growe to extreame peryll and vtter confuſion of the ſame, onles ſome remedy be in that behalfe prouided. Which thing all true louinge and obedient ſubiectes, ought, and are bounden to forſee and prouide to thuttermooſt of their power.</p>
+            <p>In conſideration wherof, be it enacted and eſtablyſhed by the Quenes hyghnes, the Lordes ſpirituall and temporall, and the commons in this ſame preſente parliament aſſembled, and by thaucthority of the ſame, that an Acte made in y<hi rend="sup">e</hi> parliament begonne at Weſtmynſter the fourth day of Nouember in the fyrſt yeare of the reygne of the late kynge Edward the ſyxt, and from thence continued to the .xxiiii. day of December then next enſuynge, that is to ſaye, in the fyrſte ſeſſion of the ſame parliament, intituled, and Acte agaynſt ſuche perſons as ſhould vnreuerentlye ſpeake agaynſt the Sacrament of the body and bloud of Chriſt, comonly called the Sacrament of the aulter, and for the receauinge therof in both kyndes. And alſo one other Acte in the ſame ſeſſion, whiche is intituled, an Acte for the election of Byſhops, and what ſeales and ſtiles they &amp; other ſpirituall perſons exerciſinge iuriſdiction Eccleſiaſticall ſhoulde vſe. And alſo one other Acte made in one other ſeſſion of the ſayd parliament, holden vpon prorogation at Weſtminſter, the fourth day of Nouember, in the ſecond yeare of the reygne of the ſayde late kynge Edward the ſyxte, and there continued and kept to the .xiiii. daye of Marche in the thyrd year of the ſaid late kynges reigne, intituled, an Act for the vniformitie of ſeruice, and adminiſtration of the Sa<g ref="char:EOLunhyphen"/>cramentes, throughout the realme. And alſo one other Acte made in the ſeſſion laſt before men<g ref="char:EOLhyphen"/>tioned, whiche is intituled, an Acte to take away all poſitiue lawes, made agaynſt the maryage of prieſtes. And alſo one other Acte, made in one other ſeſſion of the ſayd parlyament, holden v<g ref="char:EOLhyphen"/>pon prorogation at Weſtminſter the fourth day of Nouember, in the thyrde yeare of the raygne of the ſayde late kinge Edward the ſyxte, and there continued, and kept to the fyrſt day of Febru<g ref="char:EOLunhyphen"/>ary in the fourth yeare of his reygne, entituled, an Acte for thaboliſhyng and puttyng awaye of dyuers bookes and ymages. And alſo one other Acte made in the ſame ſeſſion laſt before menci<g ref="char:EOLhyphen"/>oned, intituled, an Act made for thordring of the Eccleſiaſtical miniſtres. And alſo one other Act made in one other ſeſſion of the ſayde parlyament, holden vpon prorogation at Weſtminſter the xxiii. day of Ianuary in the fyft yeare of the reygne of the ſayde late kynge Edwarde the ſyxte, and there continued and kept, tyl the .xv. daye of Apryl. in the ſixt yeare of the reygne of the ſaid late kynge, intituled, an Acte for the vniformitie of comon prayer, and the adminiſtration of the Sacramentes. And one other Acte, made in the ſame laſt ſeſſion, intituled, an Act for the keping
+<pb facs="tcp:28474:2"/>of holy dayes and faſtinge dayes. And one other Acte made in the ſeſſion laſt recited, intituled, an Acte made for the declaration of a Statute made for the mariage of prieſtes, and for the le<g ref="char:EOLhyphen"/>gittimation of theyr children<g ref="char:punc">▪</g> and euery clauſe, ſentence, braunche, article, and articles, menti<g ref="char:EOLhyphen"/>oned, expreſſed, or conteyned in the ſaid Eſtatutes, and in euery of them ſhalbe from henceforth vtterly repelled, voyde, adnichilate, and of none effecte, to all purpoſes, conſtructions, and in<g ref="char:EOLhyphen"/>tentes, any thinge or thinges, conteyned or ſpecified in the ſayde Eſtatutes, or anye of them to the contrary in any wyſe notwithſtandynge.</p>
+            <p>And be it further enacted by thaucthoritie aforeſayd, that all ſuche diuine ſeruice and admi<g ref="char:EOLhyphen"/>niſtration of Sacramentes, as were moſt comenly vſed in the realme of Englande, in the laſte yeare of the raygne of our late Soueraigne Lord, kynge Henry theight, ſhalbe from, and after the .xx. day of December, in this preſent yeare of our Lorde God, a thouſande, fyue hundred, fyftie and thre, vſed and frequented throughe the hole realme of England, &amp; al other the Que<g ref="char:EOLhyphen"/>nes Maieſties dominions. And that no other kynd nor order of diuine ſeruice, nor adminiſtra<g ref="char:EOLhyphen"/>tion of Sacramentes, be after the ſayde twenteth day of December, vſed or miniſtred in anye other maner, fourme, or degree within the ſayde realme of England, or other the Quenes do<g ref="char:EOLhyphen"/>minions, then was moſt comenly vſed, miniſtred, and frequented in the ſayde laſte yeare of the raygne of the ſayde late kynge Henry theyght.</p>
+            <p>And be it further enacted by thauctoritie aforeſayde, that no perſon ſhalbe impeched, or mo<g ref="char:EOLhyphen"/>leſted in body or goodes, for vſynge heretofore, or vntyll the ſayd. xx. day of December, the di<g ref="char:EOLhyphen"/>uine ſeruice mentioned in the ſayd Actes, or any of them, nor for thuſyng of the olde diuine ſer<g ref="char:EOLhyphen"/>uice and adminiſtration of Sacramentes in ſuche maner and fourme, as was vſed in y<hi rend="sup">e</hi> church of Englande, before the makynge of any of the ſayde Actes.</p>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Londini in aedibus Iohannis Cawodi Typographi Regiae excuſum. Anno. M.D.LIII.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio adimprimendum ſolum</p>
+         </div>
+      </back>
+   </text>
+</TEI>
